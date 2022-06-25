@@ -6,6 +6,10 @@ html {
   font-family: Montserrat, Arial, Helvetica, sans-serif;
 }
 
+body {
+  overflow: hidden;
+}
+
 button {
   margin: 0;
   border: none;
@@ -87,36 +91,36 @@ li {
   line-height: 18px;
   margin-top: 40px;
 }
-.price-tables .price-card .price-card__option-list {
+.price-tables .price-card .price-card__options-list {
   height: 300px;
   margin-top: 40px;
   width: 100%;
 }
-.price-tables .price-card .price-card__option-list .price-card__option-list__item {
+.price-tables .price-card .price-card__options-list .price-card__options-list__item {
   height: 50px;
   display: flex;
   align-items: center;
 }
-.price-tables .price-card .price-card__option-list .price-card__option-list__item:nth-of-type(even) {
+.price-tables .price-card .price-card__options-list .price-card__options-list__item:nth-of-type(even) {
   background-color: #1F3D63;
 }
-.price-tables .price-card .price-card__option-list .price-card__option-list__item:nth-of-type(odd) {
+.price-tables .price-card .price-card__options-list .price-card__options-list__item:nth-of-type(odd) {
   background-color: #2A3438;
 }
-.price-tables .price-card .price-card__option-list .price-card__option-list__item .list-item__icon {
+.price-tables .price-card .price-card__options-list .price-card__options-list__item .list-item__icon {
   height: 13px;
   width: 15px;
   margin-left: 22px;
   margin-right: 22px;
   display: inline-block;
 }
-.price-tables .price-card .price-card__option-list .price-card__option-list__item .list-item__icon-green {
+.price-tables .price-card .price-card__options-list .price-card__options-list__item .list-item__icon-green {
   background-image: url(https://gromcode.s3.eu-central-1.amazonaws.com/front-end/html-css/lesson+25/verification-checkmark-symbol_green.png);
 }
-.price-tables .price-card .price-card__option-list .price-card__option-list__item .list-item__icon-blue {
+.price-tables .price-card .price-card__options-list .price-card__options-list__item .list-item__icon-blue {
   background-image: url(https://gromcode.s3.eu-central-1.amazonaws.com/front-end/html-css/lesson+25/verification-checkmark-symbol_blue.png);
 }
-.price-tables .price-card .price-card__option-list .list-item__icon-orange {
+.price-tables .price-card .price-card__options-list .list-item__icon-orange {
   background-image: url(https://gromcode.s3.eu-central-1.amazonaws.com/front-end/html-css/lesson+25/verification-checkmark-symbol_orange.png);
 }
 .price-tables .price-card .price-card__order-btn {
