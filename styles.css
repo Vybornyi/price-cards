@@ -26,7 +26,7 @@ li {
 
 .price-tables {
   height: 100vh;
-  width: 100vw;
+  width: 100%;
   background-color: #141b1c;
   color: #FFFFFF;
   display: flex;
@@ -49,7 +49,6 @@ li {
   margin: 0 18px;
 }
 .price-tables .price-card .price-card__title {
-  width: 100px;
   height: 64px;
   margin-top: 34px;
   text-align: center;
