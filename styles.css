@@ -54,7 +54,7 @@ li {
 }
 .price-tables .price-card .price-card__title {
   height: 64px;
-  margin-top: 34px;
+  margin-top: 36px;
   text-align: center;
 }
 .price-tables .price-card .price-card__title .price-card__title-name {
@@ -102,7 +102,7 @@ li {
   align-items: center;
 }
 .price-tables .price-card .price-card__options-list .price-card__options-list__item:nth-of-type(even) {
-  background-color: #1F3D63;
+  background-color: #334247;
 }
 .price-tables .price-card .price-card__options-list .price-card__options-list__item:nth-of-type(odd) {
   background-color: #2A3438;
