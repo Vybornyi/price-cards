@@ -37,7 +37,7 @@ li {
   height: 100vh;
   width: 100vw;
   background-color: #141b1c;
-  color: #FFFFFF;
+  color: #ffffff;
 }
 .price-tables .price-card {
   position: relative;
@@ -54,20 +54,20 @@ li {
 .price-tables .price-card:nth-child(2) {
   margin: 0 18px;
 }
-.price-tables .price-card .price-card__title {
+.price-tables .price-card__title {
   margin-top: 36px;
   height: 64px;
   text-align: center;
 }
-.price-tables .price-card .price-card__title .price-card__title-name {
+.price-tables .price-card__title .price-card__title-name {
   font-size: 35px;
   line-height: 43px;
 }
-.price-tables .price-card .price-card__title .price-card__title-text {
+.price-tables .price-card__title .price-card__title-text {
   font-size: 20px;
   line-height: 24px;
 }
-.price-tables .price-card .price-card__price {
+.price-tables .price-card__price {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -77,16 +77,16 @@ li {
   font-size: 55px;
   font-weight: 700;
 }
-.price-tables .price-card .price-card__price_green {
-  background-color: #5BB189;
+.price-tables .price-card__price_green {
+  background-color: #5bb189;
 }
-.price-tables .price-card .price-card__price_blue {
-  background-color: #3A6BA5;
+.price-tables .price-card__price_blue {
+  background-color: #3a6ba5;
 }
-.price-tables .price-card .price-card__price_orange {
-  background-color: #EC632A;
+.price-tables .price-card__price_orange {
+  background-color: #ec632a;
 }
-.price-tables .price-card .price-card__description {
+.price-tables .price-card__description {
   margin-top: 40px;
   height: 36px;
   width: 327px;
@@ -94,39 +94,39 @@ li {
   line-height: 18px;
   font-weight: 400;
 }
-.price-tables .price-card .price-card__options-list {
+.price-tables .price-card__options-list {
   margin-top: 40px;
   height: 300px;
   width: 100%;
 }
-.price-tables .price-card .price-card__options-list .price-card__options-list__item {
+.price-tables .price-card__options-list__item {
   display: flex;
   align-items: center;
   height: 50px;
 }
-.price-tables .price-card .price-card__options-list .price-card__options-list__item:nth-of-type(even) {
+.price-tables .price-card__options-list__item:nth-of-type(even) {
   background-color: #334247;
 }
-.price-tables .price-card .price-card__options-list .price-card__options-list__item:nth-of-type(odd) {
-  background-color: #2A3438;
+.price-tables .price-card__options-list__item:nth-of-type(odd) {
+  background-color: #2a3438;
 }
-.price-tables .price-card .price-card__options-list .price-card__options-list__item .list-item__icon {
+.price-tables .price-card__options-list__item .list-item__icon {
   display: inline-block;
   margin-left: 22px;
   margin-right: 22px;
   height: 13px;
   width: 15px;
 }
-.price-tables .price-card .price-card__options-list .price-card__options-list__item .list-item__icon_green {
+.price-tables .price-card__options-list__item .list-item__icon_green {
   background-image: url(https://gromcode.s3.eu-central-1.amazonaws.com/front-end/html-css/lesson+25/verification-checkmark-symbol_green.png);
 }
-.price-tables .price-card .price-card__options-list .price-card__options-list__item .list-item__icon_blue {
+.price-tables .price-card__options-list__item .list-item__icon_blue {
   background-image: url(https://gromcode.s3.eu-central-1.amazonaws.com/front-end/html-css/lesson+25/verification-checkmark-symbol_blue.png);
 }
-.price-tables .price-card .price-card__options-list .list-item__icon_orange {
+.price-tables .price-card__options-list__item_orange {
   background-image: url(https://gromcode.s3.eu-central-1.amazonaws.com/front-end/html-css/lesson+25/verification-checkmark-symbol_orange.png);
 }
-.price-tables .price-card .price-card__order-btn {
+.price-tables .price-card__order-btn {
   margin-top: 39px;
   width: 154px;
   height: 40px;
@@ -135,16 +135,16 @@ li {
   border-radius: 20px;
   color: white;
 }
-.price-tables .price-card .price-card__order-btn_green {
-  background-color: #5BB189;
+.price-tables .price-card__order-btn_green {
+  background-color: #5bb189;
 }
-.price-tables .price-card .price-card__order-btn_blue {
-  background-color: #3A6BA5;
+.price-tables .price-card__order-btn_blue {
+  background-color: #3a6ba5;
 }
-.price-tables .price-card .price-card__order-btn_orange {
-  background-color: #EC632A;
+.price-tables .price-card__order-btn_orange {
+  background-color: #ec632a;
 }
-.price-tables .price-card .price-card_popular-inscription {
+.price-tables .price-card__popular-inscription {
   position: absolute;
   transform: rotate(45deg);
   right: -31px;
