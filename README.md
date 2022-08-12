@@ -1,6 +1,6 @@
 # price-card
 
-https://vybornyi.github.io/gromecode-project-2/
+https://vybornyi.github.io/price-cards/
 Layout supports desktop (1440px) versions
 
 The tech stack is:
